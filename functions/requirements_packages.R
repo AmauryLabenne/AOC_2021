@@ -1,6 +1,6 @@
 
 requiredPackages <- c("dplyr",
-                      "plyr",
+                      #"plyr",
                       "tidyverse",
                       "ggplot2",
                       "ggforce",
